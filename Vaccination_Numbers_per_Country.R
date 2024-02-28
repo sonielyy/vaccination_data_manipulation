@@ -3,7 +3,7 @@
 install.packages("readr") # for Read CSV
 library(readr)
 
-instal..packages("dplyr") # for Pipes & Data Manipulation
+instal.packages("dplyr") # for Pipes & Data Manipulation
 library(dplyr) 
 
 install.packages("tidyr") # for Data Cleaning
